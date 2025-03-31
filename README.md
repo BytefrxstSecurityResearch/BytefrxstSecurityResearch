@@ -10,3 +10,10 @@ Im  dedicated to **ethical hacking, cybersecurity research, and security tool de
 - 🕵️‍♂️ **OSINT & Threat Intelligence**
 - 📜 **Reverse Engineering**
 - 📡 **Network Security**
+
+
+## 🏆 Certificates 
+- Comptia Security +
+- Comptia A +
+- CISCO Network Fundametals
+- CISCO Customer Support Basics
