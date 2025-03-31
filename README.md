@@ -1,16 +1,12 @@
-## Hi there 👋
+# 🛡️ Bytefrxst Security Research
+🚀 Cybersecurity | Penetration Testing | Threat Analysis
 
-<!--
-**BytefrxstSecurityResearch/BytefrxstSecurityResearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🕵️ Who am I
+Im  dedicated to **ethical hacking, cybersecurity research, and security tool development**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Focus Areas
+- 🔍 **Penetration Testing**
+- 🔐 **Security Tool Development**
+- 🕵️‍♂️ **OSINT & Threat Intelligence**
+- 📜 **Reverse Engineering**
+- 📡 **Network Security**
