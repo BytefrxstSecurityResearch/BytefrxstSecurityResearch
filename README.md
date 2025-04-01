@@ -17,3 +17,7 @@ Im  dedicated to **ethical hacking, cybersecurity research, and security tool de
 - Comptia A +
 - CISCO Network Fundametals
 - CISCO Customer Support Basics
+
+
+### 
+![GitHub Snake Animation](https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg)
