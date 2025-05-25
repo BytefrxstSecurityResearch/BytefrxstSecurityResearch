@@ -19,9 +19,7 @@ I'm a cybersecurity researcher passionate about **ethical hacking**, **security 
 
 ## 🏆 Certifications
 - 🛡️ CompTIA Security+
-- 🧩 CompTIA A+
-- 🌐 Cisco Networking Fundamentals
-- 💬 Cisco Customer Support Basics
+- 💬 Cisco IT Customer Support Basics
 
 ---
 
