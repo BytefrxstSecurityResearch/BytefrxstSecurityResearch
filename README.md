@@ -20,7 +20,7 @@ I'm a cybersecurity researcher passionate about **ethical hacking**, **security 
 ## 🏆 Certifications
 - 🛡️ CompTIA Security+
 - 💬 Cisco IT Customer Support Basics
-
+- 🛠️ Google IT Support
 ---
 
 ## 🧰 Projects with Purpose
